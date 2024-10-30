@@ -1,1 +1,1 @@
-# Game-GanomaPlatforms
+# Game-GanomaPlatforms (my first game) completed project
