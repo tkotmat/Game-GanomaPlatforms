@@ -1,1 +1,1 @@
-# Game-GanomaPlatforms (my first game) completed project
+# Game-GanomaPlatforms (my first game) completed project. Descriptions of the game "This project is a platformer game where the player needs to complete levels by overcoming various obstacles. The main mechanics of the game are not about jumping over traps, but about using camera controls and changing gravity using buttons. Thanks to these features the player will be able to find ways to complete the levels." 
